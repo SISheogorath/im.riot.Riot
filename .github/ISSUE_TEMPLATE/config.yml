@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Upstream Element issue tracker
+    url: https://github.com/vector-im/element-web/issues
+    about: If you suspect an issue to be a general Element problem.
+  - name: Flatpak issue tracker
+    url: https://github.com/flatpak/flatpak/issues
+    about: If you suspect an issue to be a general flatpak problem
+  - name: Flatpak Chat
+    url: https://matrix.to/#/#freenode_#flatpak:matrix.org?via=matrix.org&via=gnome.org&via=shivering-isles.com
+    about: Join the Flatpak chat room
